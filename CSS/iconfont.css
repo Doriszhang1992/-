@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2834552 */
+  src: url('iconfont.woff2?t=1632639561823') format('woff2'),
+       url('iconfont.woff?t=1632639561823') format('woff'),
+       url('iconfont.ttf?t=1632639561823') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 12px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-weibo:before {
+  content: "\e62f";
+  font-size: 18px;
+  color:rgb(242, 114, 114);
+  cursor: pointer;
+}
+
+.icon-weixin-copy:before {
+  content: "\e652";
+  color:rgb(0, 181, 29);
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.icon-31sousuo:before {
+  content: "\e600";
+  margin-left:765px;
+  color:#ccc;
+  
+}
+

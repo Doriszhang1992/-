@@ -1,0 +1,33 @@
+@import url(//at.alicdn.com/t/font_2834552_i837ght037g.css);
+.clearfix{
+    content:"";
+    clear:both;
+    display:block;
+}
+
+.common-title{
+    color:#072;
+    font-size: 15px;
+background:transparent;
+}
+
+.common-title span{
+    color:black;
+    font-size: 12px;
+
+}
+
+.common-title span a{
+    color:#37a;
+}
+
+.common-title span a:hover{
+    color:white;
+    background:#37a;
+}
+
+a:active{
+    color:white;
+    background:#f93;
+
+}

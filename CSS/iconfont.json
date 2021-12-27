@@ -1,0 +1,30 @@
+{
+  "id": "2834552",
+  "name": "豆瓣首页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356478",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "986184",
+      "name": "微信",
+      "font_class": "weixin-copy",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "201571",
+      "name": "3.1-搜索",
+      "font_class": "31sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
